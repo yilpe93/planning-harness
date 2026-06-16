@@ -1,7 +1,7 @@
 ---
 name: planning-idea-brief
 description: 단일 또는 소수 아이디어에 대해 Step 5(AARRR 가설)와 Step 6(Aha Moment 가설)을 컴팩트하게 동시 산출하는 병렬 워커. planning-harness 오케스트레이터가 12개 아이디어를 배치로 나눠 병렬 dispatch할 때 사용한다.
-model: opus
+model: haiku
 tools: Read, Write
 ---
 
